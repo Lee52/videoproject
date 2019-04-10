@@ -26,15 +26,15 @@
 
 ### 演示地址
 
-[https://v.mypython.me/](https://v.mypython.me/)
+[http://nihaole.me/](http://nihaole.me/)
 
 后台管理地址
 
-[https://v.mypython.me/myadmin/](https://v.mypython.me/myadmin/)
+[http://nihaole.me/myadmin/](http://nihaole.me/myadmin/)
 
 测试账号
 
-用户名：admin123  密码：admin123
+用户名：fengyerudan1  密码：XXxxxxXX
 
 ### 适合人群
 
@@ -44,12 +44,4 @@ python初级学员、大学生、系统设计人员
 python/django/nginx/mysql/semantic-css/jquery/html
 
 ### 源码
-[https://github.com/geeeeeeeek/videoproject/](https://github.com/geeeeeeeek/videoproject/)
-
-
-### 开发教程
-[https://mypython.me](https://mypython.me)
-
-### 问题反馈
-
-Email: lovezww2011@gmail.com
+[https://github.com/Lee52/videoproject/](https://github.com/Lee52/videoproject/)
